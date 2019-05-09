@@ -1,0 +1,7 @@
+How do they resolve pull requests? 
+
+Can you get a sense of how contributions are evaluated in this community? 
+
+How is the community organized? 
+
+How is the repository/project organized?
