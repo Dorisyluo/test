@@ -1,7 +1,15 @@
 How do they resolve pull requests? 
+Pull requests can resolve conflicts like line changes on GitHub using conflict editor.
+Pull requests can be merged into upstream branch. Any with push access to the repo can 
+complete the merge.
 
 Can you get a sense of how contributions are evaluated in this community? 
+Yes
 
 How is the community organized? 
+The project has a checklist that checks the description, readme, code of conduct, 
+contributing, license, issue templates and pull request template.
 
 How is the repository/project organized?
+Files and folders are organized named simple but correctly explained. This lets the other 
+contributors notice the every file.
